@@ -1,7 +1,7 @@
 # PerfectEssentials
 
 
-A convenient function library candidate of Perfect
+A convenient function library candidate for Perfect
 
 ## Status
 
